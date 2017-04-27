@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Laravel Quickstart - Basic</title>
+    <title>{{ $title }}</title>
 
     <!-- CSS и JavaScript -->
     <!-- Latest compiled and minified CSS -->
